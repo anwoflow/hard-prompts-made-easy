@@ -7,6 +7,6 @@
     "loss_weight": 1.0,
     "print_step": 100,
     "batch_size": 1,
-    "clip_model": "ViT-H-14",
-    "clip_pretrain": "laion2b_s32b_b79k"
+    "clip_model": "ViT-L-14",
+    "clip_pretrain": "openai"
 }
